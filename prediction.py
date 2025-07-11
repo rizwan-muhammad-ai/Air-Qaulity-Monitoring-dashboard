@@ -21,8 +21,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(level
 logger = logging.getLogger('air_quality_prediction')
 
 # ThingSpeak channel config
-CHANNEL_ID = "2943978"
-READ_API_KEY = "DA80MWJSGQ8WK29U"
+CHANNEL_ID = "Paste Here Your Channel ID"
+READ_API_KEY = "Paste Here Your API Key"
 
 # Model save paths
 MODEL_DIR = "models"
