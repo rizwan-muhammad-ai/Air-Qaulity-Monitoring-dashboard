@@ -66,12 +66,6 @@ Data is transmitted to [ThingSpeak Channel]
 
 ---
 
-## 📚 Project Documentation
-
-For a detailed explanation of the project, including methodology, implementation, and results, refer to the [Project Explanation PDF](https://github.com/rizwan-muhammad-ai/Air-Qaulity-Monitoring-dashboard/blob/main/code_explaination.pdf).
-
----
-
 ## 🛠️ Installation Guide
 
 1. **Install Dependencies**
