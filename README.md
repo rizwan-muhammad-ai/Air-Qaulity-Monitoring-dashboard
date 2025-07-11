@@ -42,7 +42,7 @@ A full-stack Streamlit dashboard for real-time air quality monitoring and smog p
 | **MQ7**       | CO levels              | GPIO 35        |
 | **Dust Sensor**| PM2.5                  | GPIO 32 & 25   |
 
-Data is transmitted to [ThingSpeak Channel](https://thingspeak.com/channels/2936691).
+Data is transmitted to [ThingSpeak Channel]
 
 ---
 
@@ -58,25 +58,28 @@ Data is transmitted to [ThingSpeak Channel](https://thingspeak.com/channels/2936
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Home](assets/dashboard_home.png)
-![Prediction Page](assets/prediction_page.png)
+<img src="https://github.com/rizwan-muhammad-ai/Air-Qaulity-Monitoring-dashboard/blob/main/assets/Screenshot%20(67).png" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/rizwan-muhammad-ai/Air-Qaulity-Monitoring-dashboard/blob/main/assets/Screenshot%20(68).png" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/rizwan-muhammad-ai/Air-Qaulity-Monitoring-dashboard/blob/main/assets/Screenshot%20(74).png" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/rizwan-muhammad-ai/Air-Qaulity-Monitoring-dashboard/blob/main/assets/Screenshot%20(75).png" alt="Alt Text" width="300" height="200">
+
+
+---
+
+## 📚 Project Documentation
+
+For a detailed explanation of the project, including methodology, implementation, and results, refer to the [Project Explanation PDF](https://github.com/rizwan-muhammad-ai/Air-Qaulity-Monitoring-dashboard/blob/main/code_explaination.pdf).
 
 ---
 
 ## 🛠️ Installation Guide
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/rizwan-muhammad-ai/Air-Qaulity-Monitoring-dashboard.git
-   cd smog-prediction-dashboard
-   ```
-
-2. **Install Dependencies**
+1. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the Dashboard**
+2. **Run the Dashboard**
    ```bash
    streamlit run app.py
    ```
