@@ -38,7 +38,7 @@ def display_home_page():
     <div style='text-align: center; padding: 20px; background: linear-gradient(90deg, #1e3c72, #2a5298); 
          color: white; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);'>
         <h1 style='margin:0; font-size: 2.5rem;'>🌫️ Smog Prediction & Air quality Monitoring</h1>
-        <p style='margin:5px 0 0; font-size: 1.2rem;'>Raheem Gareden, Faisalabad, Pakistan</p>
+        <p style='margin:5px 0 0; font-size: 1.2rem;'>Faisalabad, Pakistan</p>
     </div>
     """, unsafe_allow_html=True)
     
