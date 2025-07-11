@@ -22,9 +22,9 @@ CACHE_FILE = os.path.join(CONFIG_DIR, "weather_cache.json")
 os.makedirs(CONFIG_DIR, exist_ok=True)
 
 # OpenWeatherMap Configuration
-OPENWEATHER_API_KEY = "db49109862c39b8cb1681c81aa24f315"
-DEFAULT_CITY = "Faisalabad"
-DEFAULT_COUNTRY_CODE = "PK"
+OPENWEATHER_API_KEY = "Paste Your OpenWeather API Key"
+DEFAULT_CITY = "Your City Name"
+DEFAULT_COUNTRY_CODE = "PK" #write country code like this 
 
 # Air Quality Health Categories
 AQI_HEALTH_CATEGORIES = [
