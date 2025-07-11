@@ -12,8 +12,8 @@ logging.basicConfig(
 logger = logging.getLogger('air_quality_utils')
 
 # ThingSpeak channel config
-CHANNEL_ID = "2936691"
-READ_API_KEY = "MG4GDRA3M2BRSL8Q"
+CHANNEL_ID = "Paste Here Your Channel ID"
+READ_API_KEY = "Paste Here Your API Key"
 
 # AQI breakpoints for PM2.5 (24-hour average)
 AQI_BREAKPOINTS = [
